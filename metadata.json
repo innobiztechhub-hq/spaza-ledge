@@ -1,0 +1,8 @@
+{
+  "name": "Kasi Ledger",
+  "description": "Smart retail POS, township inventory management, and alternative credit scoring ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

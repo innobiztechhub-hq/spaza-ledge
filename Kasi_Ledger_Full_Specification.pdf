@@ -1,0 +1,301 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R] /Count 4 >>
+endobj
+
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+
+5 0 obj
+<< /Length 8305 >>
+stream
+0.82 0.88 0.92 RG 0.5 w 44.00 36.00 m 551.28 36.00 l S
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 24.00 Td (Page 1 of 4  |  CONFIDENTIAL & PROPRIETARY  |  KASI LEDGER SYSTEM) Tj ET
+0.086 0.267 0.388 rg 44.00 793.56 507.28 4.83 re f
+0.089 0.275 0.399 rg 44.00 789.22 507.28 4.83 re f
+0.092 0.283 0.409 rg 44.00 784.89 507.28 4.83 re f
+0.095 0.290 0.420 rg 44.00 780.56 507.28 4.83 re f
+0.098 0.298 0.430 rg 44.00 776.22 507.28 4.83 re f
+0.101 0.306 0.441 rg 44.00 771.89 507.28 4.83 re f
+0.105 0.314 0.451 rg 44.00 767.56 507.28 4.83 re f
+0.108 0.322 0.462 rg 44.00 763.22 507.28 4.83 re f
+0.111 0.330 0.473 rg 44.00 758.89 507.28 4.83 re f
+0.114 0.337 0.483 rg 44.00 754.56 507.28 4.83 re f
+0.117 0.345 0.494 rg 44.00 750.22 507.28 4.83 re f
+0.120 0.353 0.504 rg 44.00 745.89 507.28 4.83 re f
+0.123 0.361 0.515 rg 44.00 741.56 507.28 4.83 re f
+0.126 0.369 0.525 rg 44.00 737.22 507.28 4.83 re f
+0.129 0.377 0.536 rg 44.00 732.89 507.28 4.83 re f
+0.132 0.384 0.546 rg 44.00 728.56 507.28 4.83 re f
+0.135 0.392 0.557 rg 44.00 724.22 507.28 4.83 re f
+0.138 0.400 0.568 rg 44.00 719.89 507.28 4.83 re f
+0.142 0.408 0.578 rg 44.00 715.56 507.28 4.83 re f
+0.145 0.416 0.589 rg 44.00 711.22 507.28 4.83 re f
+0.148 0.424 0.599 rg 44.00 706.89 507.28 4.83 re f
+0.151 0.431 0.610 rg 44.00 702.56 507.28 4.83 re f
+0.154 0.439 0.620 rg 44.00 698.22 507.28 4.83 re f
+0.157 0.447 0.631 rg 44.00 693.89 507.28 4.83 re f
+0.796 0.867 0.914 RG 1.50 w 44.00 693.89 507.28 104.00 re S
+BT /F2 8.00 Tf 0.850 0.930 0.980 rg 62.00 773.89 Td (OFFLINE-FIRST TOWNSHIP RETAIL OS & FINANCIAL INCLUSION LEDGER) Tj ET
+BT /F2 20.00 Tf 1.000 1.000 1.000 rg 62.00 747.89 Td (Kasi Ledger: Retail Management OS) Tj ET
+BT /F1 10.00 Tf 0.900 0.950 1.000 rg 62.00 725.89 Td (Complete Functional Architecture, Operational Manual & Technical Specification) Tj ET
+BT /F1 8.00 Tf 0.750 0.880 0.960 rg 62.00 705.89 Td (Platform: Android Native \(Compose & Room SQLite\)  |  Build: Production v2.4  |  Date: September 2026) Tj ET
+0.157 0.447 0.631 rg 44.00 658.89 4.00 18.00 re f
+BT /F2 13.50 Tf 0.086 0.267 0.388 rg 56.00 661.89 Td (1. Executive Summary & Market Mission) Tj ET
+0.820 0.880 0.920 rg 44.00 653.89 507.28 1.00 re f
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 641.89 Td (Kasi Ledger is an enterprise-grade, offline-first point-of-sale, inventory intelligence, and alternative) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 628.39 Td (credit-scoring platform engineered specifically for independent retail merchants, spaza shop proprietors, general) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 614.89 Td (dealers, and kiosk operators in townships and informal commercial centers.) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 596.39 Td (Historically, informal retail merchants transact predominantly in physical cash. Despite turning over substantial) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 582.89 Td (daily capital, they remain financially 'invisible' to commercial banks, micro-financiers, and working capital) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 569.39 Td (credit facilities. Kasi Ledger bridges this systemic divide by converting daily checkout scans, wholesale carton) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 555.89 Td (unbundling, and supplier invoice settlements into an auditable, digitally certified paper trail coupled with an) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 542.39 Td (objective 0 to 100 Alternative Credit Readiness Score.) Tj ET
+0.950 0.970 0.990 rg 0.796 0.867 0.914 RG 1.00 w 44.00 416.89 507.28 107.00 re B
+0.880 0.930 0.960 rg 44.00 501.89 507.28 22.00 re f
+BT /F2 9.50 Tf 0.086 0.267 0.388 rg 56.00 508.89 Td (Core Architectural Guarantees) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 487.89 Td (-  Offline-First Execution:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 487.89 Td (100% self-contained on-device Room SQLite database. Zero cloud dependencies.) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 473.39 Td (-  Design System Palette:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 473.39 Td (Modern Ocean Blue \(#2872A1\) & Cloudy Sky \(#CBDDE9\) with high-contrast alert rose.) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 458.89 Td (-  Camera Vision Engine:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 458.89 Td (Embedded Google ML Kit barcode scanner supporting UPC, EAN-13, EAN-8, Code 128.) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 444.39 Td (-  Financial Scoring:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 444.39 Td (Rolling 30-day objective algorithm evaluating stability, margin health, and credit discipline.) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 429.89 Td (-  Certified PDF Exports:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 429.89 Td (Native Android A4 PDF generator with SHA-256 digital cryptographic verification hashes.) Tj ET
+0.157 0.447 0.631 rg 44.00 389.89 4.00 18.00 re f
+BT /F2 13.50 Tf 0.086 0.267 0.388 rg 56.00 392.89 Td (2. Comprehensive Feature Breakdown by Module) Tj ET
+0.820 0.880 0.920 rg 44.00 384.89 507.28 1.00 re f
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 364.89 Td (Module A: Dashboard & Operational Cockpit) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 349.89 Td (The Dashboard acts as the storekeeper's central morning cockpit, providing instantaneous store status, core) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 336.39 Td (financial KPIs, and fast shortcuts before trading starts:) Tj ET
+0.157 0.447 0.631 rg 46.00 316.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 317.89 Td (Bespoke Hero Greeting & Status: Displays storekeeper's personalized name, live store status indicator, and frosted) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 304.89 Td (geographic location badge.) Tj ET
+0.157 0.447 0.631 rg 46.00 287.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 288.89 Td (Fast Operational Shortcuts: One-tap direct access to 'Sell Items' \(Cash Register\) and 'Add Item' \(Product Intake\).) Tj ET
+0.157 0.447 0.631 rg 46.00 271.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 272.89 Td (Today's Gross Turnover: Aggregates total customer tender received during the current calendar day.) Tj ET
+0.157 0.447 0.631 rg 46.00 255.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 256.89 Td (Today's Clean Net Profit: Calculates true owner takeaway profit \(Gross Sales minus Wholesale Inventory Cost\).) Tj ET
+0.157 0.447 0.631 rg 46.00 239.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 240.89 Td (Items Sold Counter: Tracks physical piece volume moved across the counter in real time.) Tj ET
+0.157 0.447 0.631 rg 46.00 223.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 224.89 Td (Stock Alerts Monitor: Instant warning pill identifying items needing urgent wholesale replenishment.) Tj ET
+0.157 0.447 0.631 rg 46.00 207.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 208.89 Td (Recent Transactions Log: Interactive chronological feed of recent checkouts with item counts, payment method, and) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 195.89 Td (timestamps.) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 171.89 Td (Module B: High-Throughput Point of Sale \(POS\) Register) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 156.89 Td (Engineered for high-volume customer queues where rapid checkout is paramount to avoid queue congestion:) Tj ET
+0.157 0.447 0.631 rg 46.00 137.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 138.39 Td (Multi-Modal Search & Filtering: Real-time query bar matching product titles, barcodes, or custom SKUs, alongside) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 125.39 Td (horizontal category filter chips.) Tj ET
+0.157 0.447 0.631 rg 46.00 108.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 109.39 Td (Rapid Touch Product Grid: Visual cards showing high-resolution product thumbnails, live shelf stock count, unit) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 96.39 Td (price, and instant tap-to-cart.) Tj ET
+0.157 0.447 0.631 rg 46.00 79.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 80.39 Td (Camera Barcode Scanning Modal: Integrated camera overlay scanning standard retail barcodes with instant audio/haptic) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 67.39 Td (feedback.) Tj ET
+endstream
+endobj
+
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+
+7 0 obj
+<< /Length 1367 >>
+stream
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 813.89 Td (Kasi Ledger (TM) Enterprise Specification & Operational Architecture Manual) Tj ET
+BT /F1 8 Tf 0.45 0.52 0.58 rg 481.28 813.89 Td (v2.4 Production) Tj ET
+0.82 0.88 0.92 RG 0.5 w 44.00 808.89 m 551.28 808.89 l S
+0.82 0.88 0.92 RG 0.5 w 44.00 36.00 m 551.28 36.00 l S
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 24.00 Td (Page 2 of 4  |  CONFIDENTIAL & PROPRIETARY  |  KASI LEDGER SYSTEM) Tj ET
+0.157 0.447 0.631 rg 46.00 796.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 797.89 Td (Cart Management Drawer: Line-item adjustments, bulk carton break warnings, item quantity steppers, and clear-cart) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 784.89 Td (safeguards.) Tj ET
+0.157 0.447 0.631 rg 46.00 767.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 768.89 Td (Tender Settlement Dialog: Supports Cash, Card, and Mobile Pay. Features one-tap quick-cash tender buttons \(Exact,) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 755.89 Td (R50, R100, R200, R500\) and automatic change calculation.) Tj ET
+0.157 0.447 0.631 rg 46.00 738.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 739.89 Td (Post-Sale Receipt & Sharing: Generates a formatted digital receipt with WhatsApp sharing and instant reset for the) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 726.89 Td (next customer.) Tj ET
+endstream
+endobj
+
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+
+9 0 obj
+<< /Length 6969 >>
+stream
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 813.89 Td (Kasi Ledger (TM) Enterprise Specification & Operational Architecture Manual) Tj ET
+BT /F1 8 Tf 0.45 0.52 0.58 rg 481.28 813.89 Td (v2.4 Production) Tj ET
+0.82 0.88 0.92 RG 0.5 w 44.00 808.89 m 551.28 808.89 l S
+0.82 0.88 0.92 RG 0.5 w 44.00 36.00 m 551.28 36.00 l S
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 24.00 Td (Page 3 of 4  |  CONFIDENTIAL & PROPRIETARY  |  KASI LEDGER SYSTEM) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 789.89 Td (Module C: Stock Control & Inventory Valuation) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 774.89 Td (Provides total visibility into physical shelf stock and tied-up business working capital:) Tj ET
+0.157 0.447 0.631 rg 46.00 755.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 756.39 Td (Inventory Asset Valuation Header: Calculates total unique catalog SKUs, total physical shelf units, wholesale stock) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 743.39 Td (asset value \(cost price\), and potential retail revenue value.) Tj ET
+0.157 0.447 0.631 rg 46.00 726.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 727.39 Td (Low Stock Critical Filter: Dedicated quick-filter toggle isolating products at or below the minimum threshold.) Tj ET
+0.157 0.447 0.631 rg 46.00 710.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 711.39 Td (Inline Stock Steppers: Quick '+' and '-' buttons on product cards allowing cashier to adjust shelf stock immediately) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 698.39 Td (without opening edit forms.) Tj ET
+0.157 0.447 0.631 rg 46.00 681.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 682.39 Td (Profit Margin Badges: Color-coded margin percentage chips \(Green for healthy profit >=15%, Amber/Rose for slim or) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 669.39 Td (loss-leader items\).) Tj ET
+0.157 0.447 0.631 rg 46.00 652.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 653.39 Td (Catalog Modification: Comprehensive edit dialog for re-pricing, barcode editing, and safe item removal.) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 629.39 Td (Module D: Product Intake & Wholesale Crate Splitter) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 614.39 Td (Addresses the common retail challenge of purchasing bulk cartons from wholesale depots and selling individual) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 600.89 Td (units:) Tj ET
+0.157 0.447 0.631 rg 46.00 581.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 582.39 Td (Visual Association: Attach custom photos via Android Photo Picker \(zero-permission\) or select from pre-configured) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 569.39 Td (FMCG grocery presets.) Tj ET
+0.157 0.447 0.631 rg 46.00 552.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 553.39 Td (Non-Barcoded Item Support: Toggle for loose fruit, bread, or single eggs that automatically generates a unique) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 540.39 Td (synthetic barcode identifier \(e.g. NB-APPL-491\).) Tj ET
+0.157 0.447 0.631 rg 46.00 523.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 524.39 Td (Dynamic Margin Simulator: Real-time profit calculator simulating exact profit per piece and profit margin percentage) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 511.39 Td (before saving.) Tj ET
+0.157 0.447 0.631 rg 46.00 494.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 495.39 Td (Wholesale Crate Splitter: Enter total box cost and pack size \(e.g., R240 for 24 cans\); automatically derives) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 482.39 Td (single-unit cost \(R10.00\) and updates stock count.) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 458.39 Td (Module E: Financial Analytics & Business Intelligence) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 443.39 Td (Visual analytics that transform raw receipts into strategic actionable business insights:) Tj ET
+0.157 0.447 0.631 rg 46.00 423.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 424.89 Td (Multi-Timeframe Scope: Toggle reports across Today, This Week, This Month, and All Time.) Tj ET
+0.157 0.447 0.631 rg 46.00 407.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 408.89 Td (Core Financial KPIs: Gross Turnover, Clean Net Profit, Cost of Goods Sold \(COGS\), Average Basket Size, and Overall) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 395.89 Td (Net Margin %.) Tj ET
+0.157 0.447 0.631 rg 46.00 378.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 379.89 Td (Interactive Sales Trend Chart: Custom vector canvas chart visualizing sales velocity with touch scrubber, smooth) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 366.89 Td (Bezier curves, and soft gradients.) Tj ET
+0.157 0.447 0.631 rg 46.00 349.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 350.89 Td (Departmental Category Share: Doughnut distribution chart and percentage table illustrating revenue drivers across) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 337.89 Td (product families.) Tj ET
+0.157 0.447 0.631 rg 46.00 320.89 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 321.89 Td (Stock Turnover Velocity Meter: Categorizes stock movement into Fast Turnover \(High Liquidity\), Optimal Turnover, and) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 308.89 Td (Stagnant Capital.) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 284.89 Td (Module F: Alternative Credit Scoring & Banking Portal) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 269.89 Td (The cornerstone innovation transforming unbanked informal trading into formal creditworthiness:) Tj ET
+0.157 0.447 0.631 rg 46.00 250.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 251.39 Td (Merchant KYC & GPS Anchoring: Captures business name, proprietor national ID/passport, phone number, physical) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 238.39 Td (address, and GPS coordinates.) Tj ET
+0.157 0.447 0.631 rg 46.00 221.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 222.39 Td (30-Day Rolling Credit Scoring Engine: Scores merchants from 0 to 100 points based on three objective pillars:) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 209.39 Td (Turnover Stability \(40 pts\), Margin Health \(30 pts\), and Supplier Discipline \(30 pts\).) Tj ET
+0.157 0.447 0.631 rg 46.00 192.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 193.39 Td (Four-Tier Commercial Credit Tiers: Prime Merchant \(85-100 pts\), Bankable \(70-84 pts\), Emerging \(50-69 pts\), and) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 180.39 Td (Building \(0-49 pts\).) Tj ET
+0.157 0.447 0.631 rg 46.00 163.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 164.39 Td (Wholesaler Credit & Invoice Ledger: Tracks wholesale supplier invoices and builds repayment discipline as invoices) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 151.39 Td (are marked paid on time.) Tj ET
+endstream
+endobj
+
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+
+11 0 obj
+<< /Length 5710 >>
+stream
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 813.89 Td (Kasi Ledger (TM) Enterprise Specification & Operational Architecture Manual) Tj ET
+BT /F1 8 Tf 0.45 0.52 0.58 rg 481.28 813.89 Td (v2.4 Production) Tj ET
+0.82 0.88 0.92 RG 0.5 w 44.00 808.89 m 551.28 808.89 l S
+0.82 0.88 0.92 RG 0.5 w 44.00 36.00 m 551.28 36.00 l S
+BT /F1 8 Tf 0.45 0.52 0.58 rg 44.00 24.00 Td (Page 4 of 4  |  CONFIDENTIAL & PROPRIETARY  |  KASI LEDGER SYSTEM) Tj ET
+BT /F2 11.00 Tf 0.157 0.447 0.631 rg 44.00 789.89 Td (Module G: Native PDF Generation & Digital Certification) Tj ET
+BT /F1 9.20 Tf 0.180 0.180 0.180 rg 44.00 774.89 Td (Native Android graphics document generator creating professional, print-ready A4 documentation:) Tj ET
+0.157 0.447 0.631 rg 46.00 755.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 756.39 Td (Monthly Store Performance Report: Detailed summary of monthly turnover, gross margin, wholesale costs, top revenue) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 743.39 Td (products, and category shares.) Tj ET
+0.157 0.447 0.631 rg 46.00 726.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 727.39 Td (Certified Bank Credit Readiness Statement: Formal multi-section document designed for loan officers, featuring) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 714.39 Td (Merchant KYC, Credit Scorecard, Cash Flow capacity, Inventory Collateral Appraisal, and Wholesaler Ledger.) Tj ET
+0.157 0.447 0.631 rg 46.00 697.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 698.39 Td (SHA-256 Digital Verification Hash: Embeds a cryptographic audit hash preventing unauthorized modification or) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 685.39 Td (tampering of banking statements.) Tj ET
+0.157 0.447 0.631 rg 46.00 668.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 669.39 Td (Direct Sharing Integration: One-tap export to WhatsApp, Email, Google Drive, or Bluetooth thermal POS printers.) Tj ET
+0.157 0.447 0.631 rg 44.00 638.39 4.00 18.00 re f
+BT /F2 13.50 Tf 0.086 0.267 0.388 rg 56.00 641.39 Td (3. Technical Architecture & Relational Data Model) Tj ET
+0.820 0.880 0.920 rg 44.00 633.39 507.28 1.00 re f
+0.950 0.970 0.990 rg 0.796 0.867 0.914 RG 1.00 w 44.00 529.39 507.28 92.00 re B
+0.880 0.930 0.960 rg 44.00 599.39 507.28 22.00 re f
+BT /F2 9.50 Tf 0.086 0.267 0.388 rg 56.00 606.39 Td (Database Relational Entities \(Room SQLite\)) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 585.39 Td (-  ProductEntity:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 585.39 Td (id, name, barcode, category, price, costPrice, quantity, isBulk, bulkPackSize, isNonBarcoded, imageUri) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 570.89 Td (-  SaleEntity:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 570.89 Td (id, timestamp, totalAmount, paymentMethod, itemsJson \(snapshot of items, qty, cost, price\)) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 556.39 Td (-  StoreProfileEntity:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 556.39 Td (id, storeName, ownerName, nationalId, phone, location, gpsCoordinates, currencySymbol, creditScore) Tj ET
+BT /F2 8.50 Tf 0.157 0.447 0.631 rg 58.00 541.89 Td (-  WholesalerInvoiceEntity:) Tj ET
+BT /F1 8.50 Tf 0.200 0.200 0.200 rg 219.00 541.89 Td (id, supplierName, invoiceNumber, amount, issueDate, dueDate, isPaid, paidDate, wasPaidOnTime) Tj ET
+0.157 0.447 0.631 rg 44.00 502.39 4.00 18.00 re f
+BT /F2 13.50 Tf 0.086 0.267 0.388 rg 56.00 505.39 Td (4. Security, Privacy & Offline Resilience) Tj ET
+0.820 0.880 0.920 rg 44.00 497.39 507.28 1.00 re f
+0.157 0.447 0.631 rg 46.00 484.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 485.39 Td (Zero Cloud Leakage: All financial transactions, customer basket items, and inventory valuations remain strictly) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 472.39 Td (stored on-device.) Tj ET
+0.157 0.447 0.631 rg 46.00 455.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 456.39 Td (No Cloud Dependency: Functions seamlessly in rural areas, underground markets, and during prolonged load-shedding /) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 443.39 Td (power cuts.) Tj ET
+0.157 0.447 0.631 rg 46.00 426.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 427.39 Td (Tamper-Evident Verification: Statements contain an immutable SHA-256 signature calculated from the merchant's) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 414.39 Td (financial records.) Tj ET
+0.157 0.447 0.631 rg 44.00 383.39 4.00 18.00 re f
+BT /F2 13.50 Tf 0.086 0.267 0.388 rg 56.00 386.39 Td (5. Recommended Operational Workflows) Tj ET
+0.820 0.880 0.920 rg 44.00 378.39 507.28 1.00 re f
+0.157 0.447 0.631 rg 46.00 365.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 366.39 Td (Morning Opening: Check Dashboard stock alerts to identify products requiring restocking from wholesale suppliers.) Tj ET
+0.157 0.447 0.631 rg 46.00 349.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 350.39 Td (Stock Delivery Intake: When unloading cartons from wholesalers, use the Crate Splitter to ensure unit cost is) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 337.39 Td (accurately logged.) Tj ET
+0.157 0.447 0.631 rg 46.00 320.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 321.39 Td (Counter Sales: Scan barcodes or use quick-touch cards; enter cash tendered to calculate exact customer change.) Tj ET
+0.157 0.447 0.631 rg 46.00 304.39 4.00 4.00 re f
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 305.39 Td (Monthly Bank Loan Application: At month-end, generate the Certified Bank Credit Statement to provide proof of) Tj ET
+BT /F1 8.80 Tf 0.180 0.180 0.180 rg 58.00 292.39 Td (turnover when applying for working capital loans.) Tj ET
+endstream
+endobj
+
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000135 00000 n 
+0000000205 00000 n 
+0000000280 00000 n 
+0000008637 00000 n 
+0000008779 00000 n 
+0000010198 00000 n 
+0000010340 00000 n 
+0000017361 00000 n 
+0000017504 00000 n 
+0000023267 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+23411
+%%EOF
